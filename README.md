@@ -8,6 +8,6 @@ are listening to.
 
 This repository contains three files:
 
-- etl.py ----- This file loades data from S3, processes it using Spark, creates dimensional tables, and loades it back
-- dl.cfg ----- It contains the AWS credentials
-- README.md -- The current file
+etl.py ----- This file loades data from S3, processes it using Spark, creates dimensional tables, and loades it back
+dl.cfg ----- It contains the AWS credentials
+README.md -- The current file
